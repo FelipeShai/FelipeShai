@@ -7,8 +7,8 @@
 ## Tecnologias que estou aprendendo
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-<div style="display: inline_block"><br/>
+ style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<div style="display: inline_block"><br/>
+ style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </div>
