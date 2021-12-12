@@ -1,2 +1,2 @@
-# **Felipe Shai**
-## Análise e Desenvolvimento de Sistemas
+## **Muito prazer, Felipe Shai**
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
