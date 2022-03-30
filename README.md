@@ -1,6 +1,4 @@
-## Olá! Muito prazer, pode me chamar de Shai. 😎
-### Atualmente, sou acadêmico da área de análise e desenvolvimento de sistemas. 👨‍💻
-### Com as experiências vivenciadas durante meus estudos, viso ocupar posições como Estagiário ou Trainee na área de Desenvolvimento ou Testes. 💼 
+### QA em formação, Felipe Shai atua hoje como estagiário na área de desenvolvimento de testes automatizados e testes manuais. Comprometido com o avanço tecnológico e aspirante a Tester Full Stack, tem como propósito o desenvolvimento de softwares seguros, funcionais e eficientes como meio de transformação positiva na vida de seus usuários.
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipeshai/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipeshai/)
 
