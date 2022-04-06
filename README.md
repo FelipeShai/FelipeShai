@@ -1,4 +1,6 @@
-### QA em formação, Felipe Shai atua hoje como estagiário na área de desenvolvimento de testes automatizados e testes manuais. Comprometido com o avanço tecnológico e aspirante a Tester Full Stack, tem como propósito o desenvolvimento de softwares seguros, funcionais e eficientes como meio de transformação positiva na vida de seus usuários.
+<img align = "right" height="590em" src="https://raw.githubusercontent.com/gist/Kayrhu/26a2a2408a40ddb64f961c61dc4776b7/raw/9fa2db8a7c8faa65a55b1fcd24078b26c7a1ec60/githubcard.svg">
+<h1 align="left"> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, pode me chamar de Shai.
+    
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipeshai/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipeshai/)
 
