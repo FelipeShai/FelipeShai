@@ -1,5 +1,5 @@
 <img align = "right" height="560em" src="https://raw.githubusercontent.com/gist/Kayrhu/26a2a2408a40ddb64f961c61dc4776b7/raw/9fa2db8a7c8faa65a55b1fcd24078b26c7a1ec60/githubcard.svg">
-<h1 align="left"> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, pode me chamar de Shai.
+<h1 align="left"> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Shai aqui!.
     
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipeshai/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipeshai/)
