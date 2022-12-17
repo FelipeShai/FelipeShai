@@ -9,20 +9,15 @@
 <h2 align="center">Linguagens e Ferramentas</h2>
   <h3 align="center">Front End</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/css3/1C6B94" /> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/html5/1C6B94"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/1C6B94"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/react/1C6B94"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/cypress/1C6B94"/>          
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   </p>
   
   <h3 align="center">Back End</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/1C6B94"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/express/1C6B94"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/typescript/1C6B94"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/prisma/1C6B94"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/jest/1C6B94"/>           
+ <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+ <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
   </p>
   
   <h3 align="center">Banco de Dados</h3>
@@ -34,17 +29,10 @@
   
   <h3 align="center">DevOps</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/docker/1C6B94"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/amazonaws/1C6B94"/>        
+ <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>        
   </p>
   
-  <h3 align="center">Ferramentas</h3>
-  <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/trello/1C6B94"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/visualstudio/1C6B94"/>    
-    <img height="40" width="40" src="https://cdn.simpleicons.org/figma/1C6B94"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/git/1C6B94"/> 
-  </p>
   
   <div align = "center"><hr>
 
