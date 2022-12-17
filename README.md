@@ -1,4 +1,5 @@
-# <div align = "center"> Opa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Shai aqui!</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=993399&height=160&section=header&text=Felipe%20Shai🚀&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35"/>
+
 ### <div align="center">Estagiário em Desenvolvimento Back End | Aspirante a Full Stack | Entusiasta de Quality Assurance</div>
 <p align="center">
 <a href="https://www.linkedin.com/in/felipeshai/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
