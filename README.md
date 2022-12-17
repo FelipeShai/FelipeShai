@@ -2,8 +2,8 @@
 
 ### <div align="center">Estagiário em Desenvolvimento Back End | Aspirante a Full Stack | Entusiasta de Quality Assurance</div>
 <p align="center">
-<a href="https://www.linkedin.com/in/felipeshai/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
- <a href = "mailto: felipeshai@hotmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/felipeshai/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aksia"/></a>
+ <a href = "mailto: felipeshai@hotmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <h2 align="center">Linguagens e Ferramentas</h2>
@@ -22,9 +22,7 @@
   
   <h3 align="center">Banco de Dados</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/postgresql/1C6B94"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/mongodb/1C6B94"/>    
-    <img height="40" width="40" src="https://cdn.simpleicons.org/redis/1C6B94"/> 
+SQL SERVER
   </p>
   
   <h3 align="center">DevOps</h3>
