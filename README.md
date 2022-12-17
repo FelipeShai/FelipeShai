@@ -32,18 +32,15 @@ SQL SERVER
  <img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white"/>
  
   </p>
-  
-  
+
   <div align = "center"><hr>
 
 <a href="https://github.com/FelipeShai">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=FelipeShai&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeShai&layout=compact&langs_count=7&theme=cobalt"/>
-
 </div>
-
 <div align="center">
-  
+ 
    ![Snake animation](https://github.com/Kayrhu/Kayrhu/blob/output/github-contribution-grid-snake.svg) 
 </div>
 <hr>
