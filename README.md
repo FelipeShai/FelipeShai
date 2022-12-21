@@ -6,32 +6,34 @@
  <a href = "mailto: felipeshai@hotmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<h2 align="center">Linguagens e Ferramentas</h2>
-  <h3 align="center">Front End</h3>
-  <p align="center">
+<h2>Linguagens e Ferramentas</h2>
+
+<div>
+ <h3>Front End</h3> 
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  </p>
+</div>
+
   
-  <h3 align="center">Back End</h3>
-  <p align="center">
+<div>
+ <h3>Back End</h3>
  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-  </p>
+</div>
   
-  <h3 align="center">Banco de Dados</h3>
-  <p align="center">
-SQL SERVER
-  </p>
-  
-  <h3 align="center">DevOps</h3>
-  <p align="center">
+  <div>
+  <h3>Banco de Dados</h3>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
+ </div>
+
+ <div>
+ <h3>DevOps</h3>
  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
  <img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white"/>
- 
-  </p>
+</div>
+
 
   <div align = "center"><hr>
 
