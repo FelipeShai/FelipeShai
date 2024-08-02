@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=993399&height=160&section=header&text=Felipe%20Shai🚀&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35"/>
 
-### <div align="center">Estagiário em Desenvolvimento Back End | Aspirante a Full Stack | Entusiasta de Quality Assurance</div>
+### <div align="center">Desenvolvedor Backend e Entusiasta de Quality Assurance</div>
 <p align="center">
 <a href="https://www.linkedin.com/in/felipeshai/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aksia"/></a>
  <a href = "mailto: felipeshai@hotmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
