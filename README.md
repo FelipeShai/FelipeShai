@@ -68,7 +68,7 @@ Engenheiro de software backend focado no ecossistema Java, atuando em produtos f
 </div>
 
 <div align="center">
-   ![Snake animation](https://github.com/Kayrhu/Kayrhu/blob/output/github-contribution-grid-snake.svg)
+ <img src="https://raw.githubusercontent.com/FelipeShai/FelipeShai/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer"/>
