@@ -12,16 +12,6 @@
 Engenheiro de software backend focado no ecossistema Java, atuando em produtos financeiros de alta criticidade vinculados ao INSS (empréstimo consignado, cartão de crédito, portabilidade, FGTS) para BTG Pactual e Banco Pan. Trajetória construída de QA para engenharia backend, com histórico em conectores de pagamento de alto volume sob padrão PCI DSS e migração de dados para mais de 1 milhão de usuários.
 </p>
 
-<br>
-
-<h2 align="center">🔭 Focado agora em</h2>
-
-<p align="center">
-Virtual Threads (Project Loom) · aprofundamento em SOLID aplicado · Kubernetes
-</p>
-
-<br>
-
 <h2>🛠️ Linguagens e Ferramentas</h2>
 
 <div>
