@@ -12,6 +12,16 @@
 Engenheiro de software backend focado no ecossistema Java, atuando em produtos financeiros de alta criticidade vinculados ao INSS (empréstimo consignado, cartão de crédito, portabilidade, FGTS) para BTG Pactual e Banco Pan. Trajetória construída de QA para engenharia backend, com histórico em conectores de pagamento de alto volume sob padrão PCI DSS e migração de dados para mais de 1 milhão de usuários.
 </p>
 
+<br>
+
+<h2 align="center">🔭 Focado agora em</h2>
+
+<p align="center">
+Virtual Threads (Project Loom) · aprofundamento em SOLID aplicado · Kubernetes
+</p>
+
+<br>
+
 <h2>🛠️ Linguagens e Ferramentas</h2>
 
 <div>
@@ -64,11 +74,11 @@ Engenheiro de software backend focado no ecossistema Java, atuando em produtos f
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FelipeShai&theme=radical&no-frame=true&row=1&column=6"/>
+  <img src="https://raw.githubusercontent.com/FelipeShai/FelipeShai/main/dist/trophy.svg" alt="GitHub Trophies"/>
 </div>
 
 <div align="center">
- <img src="https://raw.githubusercontent.com/FelipeShai/FelipeShai/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/FelipeShai/FelipeShai/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer"/>
